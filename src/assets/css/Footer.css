@@ -1,0 +1,13 @@
+footer {
+  margin-top: 20px;
+}
+
+footer p {
+  margin: 0;
+  font-style: oblique;
+  font-size: 14px;
+}
+
+footer a {
+  cursor: pointer;
+}

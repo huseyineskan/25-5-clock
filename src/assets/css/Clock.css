@@ -1,0 +1,39 @@
+.clock-div {
+  background-color: #131313;
+  border-radius: 20px;
+  padding: 20px 100px;
+}
+
+.clock-top {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+
+.clock-div p {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.clock-top span {
+  margin: 0 10px;
+  font-size: 25px;
+}
+
+.clock-timer {
+  border: 1px solid #f1f1f1;
+  font-size: 40px;
+  border-radius: 20px;
+  width: max-content;
+  min-width: 160px;
+  margin: 0 auto;
+  padding: 0 20px 10px;
+}
+
+.clock-controls {
+  margin-top: 30px;
+}
+
+#start_stop {
+  margin-right: 10px;
+}
